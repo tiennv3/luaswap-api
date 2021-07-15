@@ -2,5 +2,7 @@
   "thegraph": {
     "client": "https://api.thegraph.com/subgraphs/name/phucngh/luaswap",
     "blockClient": "https://api.thegraph.com/subgraphs/name/blocklytics/ethereum-blocks"
-  }
+  },
+  "port": "PORT",
+  "MONGO_URI": "MONGO_URI"
 }

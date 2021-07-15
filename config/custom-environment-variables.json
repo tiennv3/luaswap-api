@@ -3,5 +3,6 @@
     "client": "THEGRAPH_CLIENT",
     "blockClient": "THEGRAPH_BLOCK_CLIENT"
   },
-  "port": "PORT"
+  "port": "PORT",
+  "mongo_uri": "MONGO_URI"
 }
